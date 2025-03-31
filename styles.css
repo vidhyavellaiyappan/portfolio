@@ -241,4 +241,15 @@ html, body {
     .footer .bi {
         font-size: 1.2rem;
     }
+      .content-wrapper h2 {
+        color: #ff6699; /* Soft pink */
+        font-weight: bold;
+    }
+
+    /* Change Contact Paragraph Color */
+    .ccontainer h2, p {
+        color: #9b034f; /* Bootstrap blue */
+        font-weight: bold;
+    }
+
 }
