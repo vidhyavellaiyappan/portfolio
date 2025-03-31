@@ -60,4 +60,8 @@ footer .bi {
     footer .col-md-4 {
         margin-bottom: 20px;
     }
+      p {
+        color: #9b034f; /* Bootstrap blue */
+        font-weight: bold;
+    }
 }
